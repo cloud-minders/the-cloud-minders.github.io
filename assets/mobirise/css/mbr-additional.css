@@ -1519,6 +1519,7 @@ a {
   padding: 3.2px 26px;
   border: 0;
   display: block;
+  font-family: 'Space Mono';
 }
 .cid-sKQsNld782 .favorite:before {
   content: "";
@@ -1533,17 +1534,17 @@ a {
 .cid-sKQsNld782 .card_header {
   margin-bottom: 40px;
   padding-bottom: 40px;
-  border-bottom: 1px solid #e0e5ff;
+  border-bottom: 1px solid #cfcfcf;
   text-align: center;
 }
 .cid-sKQsNld782 .item:nth-child(1) .card_title {
-  color: #fee005;
+  color: inherit;
 }
 .cid-sKQsNld782 .item:nth-child(2) .card_title {
-  color: #519e70;
+  color: inherit;
 }
 .cid-sKQsNld782 .item:nth-child(3) .card_title {
-  color: #cc7d7f;
+  color: inherit;
 }
 .cid-sKQsNld782 .card_title {
   margin-bottom: 30px;
@@ -1852,8 +1853,8 @@ a {
   }
 }
 .cid-ss6x7eF0jq {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
   background: #d8eee1;
 }
 .cid-ss6x7eF0jq .team-card {
