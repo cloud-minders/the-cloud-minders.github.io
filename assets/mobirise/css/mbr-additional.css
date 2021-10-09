@@ -1534,17 +1534,17 @@ a {
   text-align: center;
 }
 .cid-sKQsNld782 .item:nth-child(1) .card_title {
-  color: inherit
+  color: inherit;
 }
 .cid-sKQsNld782 .item:nth-child(2) .card_title {
-  color: inherit
+  color: inherit;
 }
 .cid-sKQsNld782 .item:nth-child(3) .card_title {
-  color: inherit
+  color: inherit;
 }
 .cid-sKQsNld782 .card_title {
   margin-bottom: 30px;
-  color: inherit
+  color: inherit;
 }
 .cid-sKQsNld782 .card_price {
   color: #ff0000;
@@ -1660,17 +1660,17 @@ a {
   text-align: center;
 }
 .cid-sL19oeqy01 .item:nth-child(1) .card_title {
-  color: inherit
+  color: inherit;
 }
 .cid-sL19oeqy01 .item:nth-child(2) .card_title {
-  color: inherit
+  color: inherit;
 }
 .cid-sL19oeqy01 .item:nth-child(3) .card_title {
-  color: inherit
+  color: inherit;
 }
 .cid-sL19oeqy01 .card_title {
   margin-bottom: 30px;
-  color: inherit
+  color: inherit;
 }
 .cid-sL19oeqy01 .card_price {
   color: #ff0000;
@@ -1783,17 +1783,17 @@ a {
   text-align: center;
 }
 .cid-sKQtrWaMxt .item:nth-child(1) .card_title {
-  color: inherit
+  color: inherit;
 }
 .cid-sKQtrWaMxt .item:nth-child(2) .card_title {
-  color: inherit
+  color: inherit;
 }
 .cid-sKQtrWaMxt .item:nth-child(3) .card_title {
-  color: inherit
+  color: inherit;
 }
 .cid-sKQtrWaMxt .card_title {
   margin-bottom: 30px;
-  color: inherit
+  color: inherit;
 }
 .cid-sKQtrWaMxt .card_price {
   color: #ff0000;
@@ -2037,7 +2037,7 @@ a {
 }
 .cid-sKOeehoTsU .mbr-iconfont-social {
   font-size: 1rem;
-  color: #000000;
+  color: #d8eee1;
 }
 .cid-sKOeehoTsU .social-list a:focus {
   text-decoration: none;
@@ -2074,4 +2074,7 @@ a {
 }
 .cid-sKOeehoTsU img {
   display: inline;
+}
+.mbr-form h2 {
+  font-weight: 400;
 }
